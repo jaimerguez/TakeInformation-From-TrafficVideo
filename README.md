@@ -7,6 +7,7 @@ Martín Sánchez López
 Universidade de Santiago de Compostela
 
 -------------------- Introducción --------------------
+
 Este é o proxecto final de Visión Artificial Avanzada, onde o obxectivo é extraer os datos de  tráfico 
 dun vídeo usando visión por computadora para despois poder usala para: a creación de modelos de tráfico, 
 análise dos diferentes fluxos... Poder entender como se comporta o tráfico dunha cidade, pode axudar a 
@@ -16,6 +17,7 @@ dos obxectivos conseguidos foi simplificar e reducir costes a hora de facer estu
 cás técnicas usadas actualmente; ademais de moita maior flexibilidade.
 
 --------------------- Cómo usar? ---------------------
+
 1) Instala os requisitos
 2) Cambia as variabeis que consideres pertinentes no script ./code/config.py.
 3) Lanza o codigo co seguinte comando: $ python main.py
@@ -23,5 +25,6 @@ cás técnicas usadas actualmente; ademais de moita maior flexibilidade.
 5) Postprocesa os datos obtidos cos scripts do directorio ./code/analizar
 
 --------------------- Requisitos ---------------------
+
 Os requisitos do proxecto están descritos en ./requirements.txt. Para instalar todos:
 $ pip install requirements.txt -r

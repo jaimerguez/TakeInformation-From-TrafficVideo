@@ -1,5 +1,6 @@
 
-# ANÁLISE DO TRÁFICO MEDIANTE VISIÓN ARTIFICIAL
+# ANÁLISE DO TRÁFICO MEDIANTE VISIÓN ARTIFICIAL. 
+# Project in process...
 
 Jaime Rodríguez Rodríguez
 Martín Sánchez López
@@ -7,8 +8,7 @@ Martín Sánchez López
 Universidade de Santiago de Compostela
 
 -------------------- Introducción --------------------
-
-Este é o proxecto final de Visión Artificial Avanzada, onde o obxectivo é extraer os datos de  tráfico 
+O obxectivo é extraer os datos de  tráfico 
 dun vídeo usando visión por computadora para despois poder usala para: a creación de modelos de tráfico, 
 análise dos diferentes fluxos... Poder entender como se comporta o tráfico dunha cidade, pode axudar a 
 optimizalo, conseguindo reducir os tempos de atascos e reducindo a contaminación. Neste traballo para 

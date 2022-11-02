@@ -26,5 +26,5 @@ cás técnicas usadas actualmente; ademais de moita maior flexibilidade.
 
 --------------------- Requisitos ---------------------
 
-Os requisitos do proxecto están descritos en ./requirements.txt. Para instalar todos:
+Os requisitos do proxecto están descritos en ./code/requirements.txt. Para instalar todos:
 $ pip install requirements.txt -r

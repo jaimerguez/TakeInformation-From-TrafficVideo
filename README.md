@@ -1,6 +1,6 @@
 
-# ANÁLISE DO TRÁFICO MEDIANTE VISIÓN ARTIFICIAL. 
-# Project in process...
+# ANÁLISIS DEL TRÁFICO MEDIANTE VA
+# *Project in process...*
 
 Jaime Rodríguez Rodríguez
 Martín Sánchez López

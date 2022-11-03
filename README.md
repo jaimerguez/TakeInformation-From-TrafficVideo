@@ -21,3 +21,10 @@ de los objetivos alcanzados fue simplificar y reducir costos al hacer estudios d
 Los requisitos del proxecto están descritos en $./code/requirements.txt$. Para instalar todos:
 ```bash
 $ pip install requirements.txt -r
+```
+
+## Demo
+
+En el directorio del repositorio $$ se encuentra una salida de ejemplo para un video de tráfico.<br>
+
+<p align="center"><img src="https://github.com/jaimerguez/TakeInformation-From-TrafficVideo/output_example/fluxo.png" width="50%"></p>

@@ -25,6 +25,6 @@ $ pip install requirements.txt -r
 
 ## Demo
 
-En el directorio del repositorio $./output_example$ se encuentra una salida de ejemplo para un video de tráfico.<br>
+En el directorio del repositorio $./output\_example$ se encuentra una salida de ejemplo para un video de tráfico.<br>
 
 <p align="center"><img src="https://github.com/jaimerguez/TakeInformation-From-TrafficVideo/blob/main/output_example/fluxo.jpg" width="50%"></p>

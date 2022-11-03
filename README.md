@@ -13,7 +13,7 @@ de los objetivos alcanzados fue simplificar y reducir costos al hacer estudios d
 1) Instala los requisitos
 2) Cambia las variabeis que consideres pertinentes en el script $./code/config.py.$
 3) Lanza el codigo con el seguinte comando:  ```$ python main.py```
-4) Todos los datos extraidos se guardan emn el directorio $./output$
+4) Todos los datos extraidos se guardan en el directorio $./output$
 5) Postprocesa los datos obtenidos con los scripts del directorio $./code/analizar$
 
 ## Requisitos 
